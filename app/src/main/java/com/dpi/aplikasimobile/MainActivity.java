@@ -9,6 +9,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
+    //deklarasi variable
     EditText Tempatinput;
     TextView textTampil;
     Button  btn_submit;
